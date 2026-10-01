@@ -1,0 +1,10 @@
+node_modules/
+frontend/.angular/
+frontend/dist/
+frontend/.npm-cache/
+backend/target/
+.runtime/
+.build-tools/
+*.log
+.env
+!.env.example
